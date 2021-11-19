@@ -65,8 +65,6 @@ Record some basic video demos or a flow chart displaying decision making process
 * Large List Identification, Throttling and Planning
   
 
-
-
 ## Operational Checklists
 Here are some examples of some checklists that you can use.
 
