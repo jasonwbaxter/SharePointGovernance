@@ -1,6 +1,6 @@
 # Governance Quick Start
 
-I've been reviewing several whitepapers and i'm trying to make this a bit simpler, This is a very broad topic and unique to every organisation & its culture.
+I've been reviewing several whitepapers and i'm trying to make this a bit simpler, This is a very broad topic and unique to every organisation & its culture. Our [Governance Overview](https://docs.microsoft.com/en-us/sharepoint/governance-overview)
 
 ## Lifecycles are important
 
@@ -64,7 +64,6 @@ Record some basic video demos or a flow chart displaying decision making process
 
 * Large List Identification, Throttling and Planning
   
-
 ## Operational Checklists
 Here are some examples of some checklists that you can use.
 
@@ -75,10 +74,9 @@ Here are some examples of some checklists that you can use.
 * What is my network latency to SharePoint Online.
 * What is the Service Health of SharePoint Online.
   
-
 ### Weekly Checklist
 
-
+* 
 
 
 ### Monthly Checklist
