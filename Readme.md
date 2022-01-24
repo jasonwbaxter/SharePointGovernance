@@ -88,7 +88,7 @@ Here are some examples of some checklists that you can use.
 
 ### Quarterly Checklist
 
-* SharePoint Support Planning -ensure that the Help Desk is eady and has the appropriate resources they need
+* SharePoint Support Planning -ensure that the Help Desk is ready and has the appropriate resources they need
 * Set User Expectations for Support
 * Review  legal retention and compliance regulations
 
