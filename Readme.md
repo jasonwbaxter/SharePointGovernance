@@ -76,7 +76,15 @@ Here are some examples of some checklists that you can use.
   
 ### Weekly Checklist
 
-* 
+
+* What are my heaviest sharePoint Pages?
+* What workflows if any failed?
+* What logic apps if any failed?
+* What PowerApps if any gave errors?
+* What connectors are my users using?
+* Check Largest sites view in Active sites in SharePoint Admin center. 
+* Create a custom Storage check view , with added custom columns Storage Quota & Storage % used.
+
 
 
 ### Monthly Checklist
