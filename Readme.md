@@ -8,7 +8,7 @@ Think of anything in nature or a project it eventually passes on or becomes unus
 
 There are two main paths here:
 
-* [What is collaboration governance ](https://docs.microsoft.com/en-us/microsoft-365/solutions/collaboration-governance-overview?view=o365-worldwide)
+* [What is collaboration governance](https://docs.microsoft.com/en-us/microsoft-365/solutions/collaboration-governance-overview?view=o365-worldwide)
 * [Planning intranet governance](https://docs.microsoft.com/en-us/sharepoint/intranet-governance)
 
 ## The beginning of my summary starting with M365 Groups
@@ -57,7 +57,7 @@ Record some basic video demos or a flow chart displaying decision making process
 
 ## Performance Tuning
 
-*   Page Weight Planning
+  * Page Weight Planning
     * Image Optimization Recommendations
     * Script Optimization Recommendations
     * Slowest Pages Identification & Planning
